@@ -319,6 +319,9 @@ article {
   background-color: #dba538;
   color: white;
 }
+.main-navigation-top ul li a:focus {
+  background-color: hotpink;
+}
 
 /*-- sidebar --*/
 
